@@ -1,0 +1,79 @@
+Python
+
+# Print "Hello, World!"
+print("Hello, World!")
+
+# Variables and arithmetic operations
+a = 5
+b = 3
+sum = a + b
+print("The sum is:", sum)
+
+# Conditional statements
+x = 10
+if x > 5:
+    print("x is greater than 5")
+else:
+    print("x is not greater than 5")
+
+# Loops
+for i in range(5):
+    print(i)
+
+
+
+JavaScript
+
+// Print "Hello, World!"
+console.log("Hello, World!");
+
+// Variables and arithmetic operations
+let a = 5;
+let b = 3;
+let sum = a + b;
+console.log("The sum is:", sum);
+
+// Conditional statements
+let x = 10;
+if (x > 5) {
+    console.log("x is greater than 5");
+} else {
+    console.log("x is not greater than 5");
+}
+
+// Loops
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+
+
+
+Java
+
+// Print "Hello, World!"
+System.out.println("Hello, World!");
+
+// Variables and arithmetic operations
+int a = 5;
+int b = 3;
+int sum = a + b;
+System.out.println("The sum is: " + sum);
+
+// Conditional statements
+int x = 10;
+if (x > 5) {
+    System.out.println("x is greater than 5");
+} else {
+    System.out.println("x is not greater than 5");
+}
+
+// Loops
+for (int i = 0; i < 5; i++) {
+    System.out.println(i);
+}
+
+
+
+
+Start with these snippets to understand basic syntax, printing output, and HTML structure for web development. Feel free to experiment and modify them to see how they behave differently.
